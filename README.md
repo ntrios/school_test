@@ -31,7 +31,7 @@ query{
   schoolClass{
     id
     school{
-    	name
+      name
     }
     class{
       name
@@ -42,12 +42,12 @@ query{
 <img src=".github/list_schoolClass.png" />
 
 * Get a list of users by class
-```json
+```
 query{
 	listByClass(schoolClassId: 1){
     user{
       name
-			cpf
+	  cpf
     }
     schoolClass{
       school{
