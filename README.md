@@ -2,6 +2,7 @@
 The goal of this repository is to be a school activity correction system, following the [`test instructions`](.github/test_arvore.md).
 
 Based on these instructions, I built: [`eer diagram`](.github/diagram.png).
+<img src=".github/diagram.png" />
 
 ## Requeriments
   * postgres 11.7
